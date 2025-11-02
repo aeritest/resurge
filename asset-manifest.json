@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/resurge/static/css/main.c6837b34.css",
-    "main.js": "/resurge/static/js/main.7d52cbde.js",
+    "main.js": "/resurge/static/js/main.af8fc7fc.js",
     "static/js/453.620b0512.chunk.js": "/resurge/static/js/453.620b0512.chunk.js",
     "index.html": "/resurge/index.html",
     "main.c6837b34.css.map": "/resurge/static/css/main.c6837b34.css.map",
-    "main.7d52cbde.js.map": "/resurge/static/js/main.7d52cbde.js.map",
+    "main.af8fc7fc.js.map": "/resurge/static/js/main.af8fc7fc.js.map",
     "453.620b0512.chunk.js.map": "/resurge/static/js/453.620b0512.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6837b34.css",
-    "static/js/main.7d52cbde.js"
+    "static/js/main.af8fc7fc.js"
   ]
 }
