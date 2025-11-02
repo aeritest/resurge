@@ -1,6 +1,6 @@
 {
-  "name": "recovery-app",
-  "homepage": "https://aeritest.github.io/recovery-app",
+  "name": "resurge",
+  "homepage": "https://aeritest.github.io/resurge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
